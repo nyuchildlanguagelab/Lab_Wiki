@@ -1,0 +1,38 @@
+# Lab Resources
+
+## Passwords, Shared Credentials and Room Code
+
+Long list of passwords and keycodes to all lab accounts are listed in the Evernote under the Lab General notebook. Please keep confidential! 
+
+__If you get locked out:__ 
+
+- If locked out of 208, Slack someone in the lab for the keycode
+- If locked of 209 (Testing room), request Teresa to open the door during work hours. If after work, request the security guard downstairs to open the lab 
+- PRO TIP: Always make sure the 209 key isn’t in the room before locking the door
+
+## Evernote
+
+Be familiar with what is in our Evernote and how the notes are organized. Consult Evernote notes when you have any questions about lab passwords, meeting schedules, project statuses, etc. Update Evernote notes when you make any changes or decisions related to the lab or lab projects.
+
+## Dropbox
+
+All materials relevant to lab projects are stored on Dropbox (Usually under Experimental Studies). Each project folder might contain (but limited to) images, audio files, participant tracking spreadsheets, R scripts, data files, and videos related to the project. This is done to ensure a central repository for each project, prevent data loss, allow for cross platform access and remote access. In the future, we plan to create an OSF page and make all our items, data and analysis available to the public to promote open science.
+
+## Software Packages
+
+R, Matlab, Penn Controller, MTurk, Experiment Builder, Data Viewer
+
+## Inventory
+
+- Lab room cabinet
+    - 1st/bottom drawer: misc
+    - 2nd drawer: misc
+    - 3rd drawer: office supplies and toys/gifts
+    - 4th/top drawer: Kids and adult t-shirts
+    - 1st shelf/bottom shelf: experiment supplies
+    - 2nd shelf: kids books
+    - 3rd shelf: kids toys/gifts
+    - 4th/top of cabinet: projector
+- Cubbies
+    - kids toys and snacks
+

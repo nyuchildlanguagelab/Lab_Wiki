@@ -1,0 +1,55 @@
+---
+title: "NYU Child Language Lab Manual"
+author: ""
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+---
+
+# Welcome
+
+Welcome to NYU's Child Language Lab Wiki! Click on tabs to the left to explore our site!
+
+## Mission Statement {-}
+
+We are interested in better understanding how young children workout the complex language learning problems they are faced with, specifically abstract words that cannot be taught or pointed to (e.g., how do you show a child the meaning of must or think?). To do so, we combine expertise in linguistics, cognitive science and developmental psychology to help us understand just how children accomplish this feat. Although neither you nor your child will personally receive any direct benefits from this research, by learning more about children’s abstract language development,this research contributes directly to our knowledge about human linguistic and cognitive development, and indirectly to the improvement of early language assessment and intervention.
+
+## Current Projects ^[For more information, see [this detailed list of experiments](#expov)]
+
+### PI-led Projects {-}
+
+1. __Fuzzy NomNoms__: Investigates the acquisition and comprehension of the modal adverb maybe in 2-3 year old children. 
+2. __AllAboutMe__: Investigates the evidential component of must and might in 5 - 9 year olds. 
+3. __ModForceJunior__: Aims to understand how 3.5 - 4.5 year olds navigate modal force in acquisition.  
+
+### Graduate Student-led Projects {-}
+
+1. __CountKiddo__ (Maxime): Aims to understand the acquisition path of counterfactual assertions in 4-6 year olds. 
+2. __Exhaustives__ (Alicia): Aims to pindown the source of number inferences in 4-6 year olds.
+3. __KidBiComp__ (Sarah): Aims to understand the nature and processing of code-switched utterances in 2-year-old English-Spanish bilinguals. 
+
+## Lab Members
+
+### PI {-}
+Dr. Ailis Cournane
+
+### Lab manager {-}
+(past): Vishal Arvindam 
+(current): TBD
+
+### Graduate Students {-} 
+Maxime Tulling; Alicia Parrish; Sarah Phillips; Chiara Repetti-Ludlow; Anna Alsop; Paloma Jeretič; Naomi Lee; Mary Robinson 
+
+### RAs {-} 
+Jenna Pollan; Sasha Frangulov; Daniella Presti; Sam Mitchell; Rachel Arbacher 
+
+### Interns {-} 
+Stacy Gerchick; Max Manicone; Nicolette Cure; Michelle Golden 
+
+### Alumni {-}
+Vishal Sunil Arvindam; Dunja Veselinovic; Hayden Kee; Yohei Oseki; Deborah Hapern; Kathyrn Rafailov 
+
+
+<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->

@@ -1,0 +1,49 @@
+# Reading List ^[Papers without links are in [this](https://drive.google.com/drive/u/0/folders/1e0APGtvOwW9aTcG3hoEQwf31LJStRsO8) dropbox folder]
+
+Essential reading list to get up to speed with the general flavor of our research questions. 
+
+## Modals
+
+- Hacquard, Valentine (2011)
+['Modality'](http://ling.umd.edu//~hacquard/papers/HoS_Modality_Hacquard.pdf). In C. Maienborn, K. von Heusinger, and P. Portner (eds.) Semantics: An International Handbook of Natural Language Meaning. HSK 33.2 Berlin: Mouton de Gruyter. 1484-1515.
+
+- Hacquard, V. and Ailís Cournane. 2016. [Themes and variations in the expression of modality](https://s18798.pcdn.co/cournane/wp-content/uploads/sites/5271/2016/09/Hacquard_Cournane_NELS.pdf). Proceedings of the 46th Annual Meeting of the Northeastern Linguistics Society (NELS 46).
+
+- Barbiers L.C.J. & Dooren A. van (2017), Modal Auxiliaries. In: Barbiers L.C.J., Dooren A. van (Eds.) The Companion to Syntax.: John Wiley.
+
+## Acquisition
+
+- Lidz, Jeff & L. Perkins (2017) [Language Acquisition](http://ling.umd.edu/assets/publications/Lidz-Perkins-17-LanguageAcquisition.pdf). in J. Wixted (ed) Stevens Handbook of Experimental Psychology and Cognitive Neuroscience. Wiley.
+
+- Gleitman, L.R., Cassidy, K., Papafragou, A., Nappa, R., & Trueswell, J.T. (2005) Hard words. Journal of Language Learning and Development, 1:1., 23-64
+
+- Cournane, Ailís. (under revision). Learning Modals: on how children acquire the language of possibility. Language & Linguistics Compass. 
+
+
+## Experimental Methods
+
+### Corpus {-} 
+
+- Cournane, Ailís. 2015. [Revisiting the Epistemic Gap: evidence for a grammatical source](https://s18798.pcdn.co/cournane/wp-content/uploads/sites/5271/2016/09/BUCLD-39-Proceedings_Cournane.pdf). Proceedings of the 39th annual to the Boston University Conference on Language Development (BUCLD39). Somerville, MA: Cascadilla Press.
+
+- van Dooren, A., Anouk Dieuleveut, Ailís Cournane and Valentine Hacquard. 2017. [Learning what must and can must and can mean](https://s18798.pcdn.co/cournane/wp-content/uploads/sites/5271/2017/12/AC2017-Proceedings.pdf). Proceedings of the 2017 Amsterdam Colloquium.
+
+### Sentence Repair Task {-}
+
+- Cournane, Ailís. 2014. [In search of L1 evidence for diachronic reanalysis: mapping modals](https://www.tandfonline.com/doi/full/10.1080/10489223.2013.855218). Language Acquisition 21 (1): 103-117.
+
+### Truth-Value Judgment Task {-}
+
+- Gordon, Peter. The Truth-Value Judgment Task. Chapter 10, In D. McDaniel, C. McKee, H. Cairns (Eds.) Methods for assessing children's syntax. Cambridge, Mass: MIT Press. 
+
+### Picture-Choice Task {-}
+
+- Gerken, LouAnn & Michele E. Shady. The Picture Selection Task. Chapter 6, In D. McDaniel, C. McKee, H. Cairns (Eds.) Methods for assessing children's syntax. Cambridge, Mass: MIT Press. 
+
+### Eye-Tracking {-}
+
+- Trueswell, J. C., Sekerina, I., Hill, N. M., & Logrip, M. L. (1999). [The kindergartenpath effect: studying on-line sentence processing in young children](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/81/files/2017/07/1999_Cognition73_89-134-1sw5y3i.pdf). Cognition, 73, 89-134.
+
+## Language Change and the Role of the Children
+
+- Cournane, Ailís. 2017. [In defense of the child innovator](https://s18798.pcdn.co/cournane/wp-content/uploads/sites/5271/2018/04/In_defence_of_the_child_innovator.pdf). In Mathieu, Éric and Robert Truswell (eds), Micro Change and Macro Change in Diachronic Syntax. Oxford: Oxford University Press. Pp. 10-24. 
