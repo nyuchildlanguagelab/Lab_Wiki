@@ -12,16 +12,25 @@ output:
 
 Welcome to NYU's Child Language Lab Wiki! Click on tabs to the left to explore our site!
 
+## Links {-}
+
+- [Lab website](https://wp.nyu.edu/childlanguagelab/) 
+
+- [PI Website](https://wp.nyu.edu/cournane/) 
+
+- [Lab Facebook Page](https://www.facebook.com/NYUcll/) 
+
+
 ## Mission Statement {-}
 
-We are interested in better understanding how young children workout the complex language learning problems they are faced with, specifically abstract words that cannot be taught or pointed to (e.g., how do you show a child the meaning of must or think?). To do so, we combine expertise in linguistics, cognitive science and developmental psychology to help us understand just how children accomplish this feat. Although neither you nor your child will personally receive any direct benefits from this research, by learning more about children’s abstract language development,this research contributes directly to our knowledge about human linguistic and cognitive development, and indirectly to the improvement of early language assessment and intervention.
+We are interested in better understanding how young children workout the complex language learning problems they are faced with, specifically abstract words that cannot be taught or pointed to (e.g., how do you show a child the meaning of *must* or *think*?). To do so, we combine expertise in linguistics, cognitive science and developmental psychology to help us understand just how children accomplish this feat. Although neither you nor your child will personally receive any direct benefits from this research, by learning more about children’s abstract language development,this research contributes directly to our knowledge about human linguistic and cognitive development, and indirectly to the improvement of early language assessment and intervention.
 
 ## Current Projects ^[For more information, see [this detailed list of experiments](#expov)]
 
 ### PI-led Projects {-}
 
-1. __Fuzzy NomNoms__: Investigates the acquisition and comprehension of the modal adverb maybe in 2-3 year old children. 
-2. __AllAboutMe__: Investigates the evidential component of must and might in 5 - 9 year olds. 
+1. __Fuzzy NomNoms__: Investigates the acquisition and comprehension of the modal adverb *maybe* in 2-3 year old children. 
+2. __AllAboutMe__: Investigates the evidential component of *must* and *might* in 5 - 9 year olds. 
 3. __ModForceJunior__: Aims to understand how 3.5 - 4.5 year olds navigate modal force in acquisition.  
 
 ### Graduate Student-led Projects {-}
