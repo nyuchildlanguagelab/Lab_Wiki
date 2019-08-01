@@ -9,7 +9,7 @@ If you need to change or information in the wiki, edit the google doc entitled "
 1. Open the R project "NYU Child Language Lab Manual.Rproj" from the folder in downloads called "CLL-wiki" in RStudio.
 2. Locate the .Rmd file in the bottom right panel of RStudio that you wish to edit. If you wish to create a .Rmd file, name it "(chapter number)_Title" and adjust the subsequent chapter numbers if you created a chapter in the middle of the current chapters. The only formatting requirement for creating a new chapter is to start the .Rmd file with "# Title".
 3. Edit the text in the .Rmd file. If this requires any formatting refer to the [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf).
-4. Save all changes in RStudio. 
+4. Save all changes in RStudio. Press the "Build Book" button in the top right panel of RStudio, and when the book is previewed, check that your changes look good.
 5. Open up the terminal^[You may be prompted by the terminal somewhere in this process for our github username and password. These can be found on the passwords page in Evernote.] and type into the command line:
 
 ```
