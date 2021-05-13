@@ -2,13 +2,17 @@
 
 ## Basics {-}
 
-1. Fill out new hire paperwork (Consult PI about what documents specifically)
-2. Create free Evernote account and get access to Child Language Lab @ NYU Evernote
+
+1. New hire paperwork: Wasserman Form from Wasserman Center (to Ailis to sign)
+2. IRB > CITI Training and Certificates > Instructions, for getting IRB 
 3. Create free Slack account; download a copy onto your PC and your phone
-4. Familiarize yourself with CLL Evernote, Slack, and Dropbox
-5. Complete CITI training and save to DropBox
-6. Sign up for Cayuse in order to be added to the IRB protocol. Ask PI or Lab manager to add you to IRB
-7. Learn Door code (Rm 208) and location of key (Rm 209)
-8. Schedule hours based on role
-9. Read and sign Rules of the Lab  (Dropbox contains General Lab Documents)
-10. Learn lab passwords (Evernote contains Passwords) 
+4. Familiarize yourself with CLL Slack and Dropbox
+5. Ethics Approval - Complete CITI Training; Certificate saved to Evernote: IRB > CITI Training and Certificates; Certificate saved to DropBox
+6. Create Cayuse Account 
+7. Get added to active IRB Protocols (Ailis)
+8. Add email (work/uni) and phone number to General Lab > Contact List
+9. Learn Passwords (keep confidential!) for:
+10. Lab Machines: Dropbox; Slack; Google Calendar; Apple/iCloud (includes lab email); Zotero
+11. Door code (Rm 208) and location of key (Rm 209)
+12. Scheduling Availability/Hours: Send times you are absolutely not available (class/other work), times you would prefer not to work, and times you are available (prefer to work) to Lab Manager (Charlotte).    
+13. Read and sign Rules of the Lab  (Dropbox > General Lab Documents)

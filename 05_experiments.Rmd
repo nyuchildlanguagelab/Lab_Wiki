@@ -2,13 +2,16 @@
 
 ## How to Handle Routine Testing Session
 
-1. Have consent form ready, explain studies and operation, and sign
-2. Note on consent form what number participant they are for each study they do. Adult forms all go in the “completed adult consent forms” folder. Child forms all go in the completed child forms folder for each respective study; if a child participates in more than one study, make a photocopy of the form, write that they participated in more than one study at the top, and place it one each applicable folder.
-3. Offer food/snack, be welcoming and accommodating etc
-4. Run study(s)
-5. If adults do >=2 studies, reimburse afterwards with $10 (found in top drawer in office room) and fill out receipt
-6. If the participant is a child, offer a toy and CLL t-shirt
-7. As soon as a study is done, add all demographic information to the tracking sheet for the respective study. Make sure to mark the date, location (lab or name of daycare), P-number, and child’s name!!!!!
+
++ Alert the security guard before the parents come in. This might involve leaving the name of the parent and age/number of children 
++ Have consent form ready, explain studies and operation, and sign
++ Check Participant Tracker (All Studies) in google drive to see what participant number you are up to and what list you should be running. Note that the participant completed the study on the form afterwards.
++ Note on consent form what number participant they are for each study they do. Adult forms all go in the “completed adult consent forms” folder. Child forms all go in the completed child forms folder for each respective study; if a child participates in more than one study, make a photocopy of the form, write that they participated in more than one study at the top, and place it one each applicable folder.
++ Offer food/snack, be welcoming and accommodating etc
++ Run study(ies)
++ If adults do >=2 studies, reimburse afterwards with $10 (usually found in top drawer in office room, check w/Ailis) and fill out receipt
++ If the participant is a child, offer a toy and CLL t-shirt
++ As soon as a study is done, add all demographic information to the tracking sheet & CLL-Database sheet for the respective study. Make sure to mark the date, location (lab or name of daycare), P-number, and child’s name.
 
 
 ## Experiment Overviews {#expov}
@@ -61,6 +64,24 @@ Children are introduced to Pterry the Pterodactyl and Cera the Triceratops, who 
 - Time: 15 minutes
 - Age: 5-9
 - Materials: answer key, iPad, puppets
+
+### CFWaterpark {-}
+
+For this task, children will play a short guessing game involving three animals playing in a waterpark (crocodile, penguin, and giraffe). Children are presented with short stories, followed by some questions about those stories. They are asked to guess where giraffe is, based on where the other two animals are, and are asked to explain their choices. This game allows us to learn more about how children reason about possibilities, and understand what kinds of possibilities they are able to reason over.
+
+- Time: 15 minutes 
+- Age: 5-7 & adults
+- Materials:
+
+### SqueakyMice {-}
+
+Children are invited to play a computer game over zoom with the researcher. The game involves little stories with different animals (mice, bees, ants, fish) playing in different locations. Some of the animals make noises and some do not, and your child’s task is to pick which groups of animals to click on to see if they’re noisy, based on what the mama animal says. We also ask children to explain their choices, to better understand how they are interpreting the scenario and language. This fun little game helps us learn more about how children understand the kinds of sentences used when we talk about rules and desires/goals.
+
+- Time: 20 minutes
+- Age: 5-7 & adults 
+- Materials: Scratch, Zoom, computer/laptop, answer key 
+
+
 
 
 

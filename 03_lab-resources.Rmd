@@ -2,7 +2,7 @@
 
 ## Passwords, Shared Credentials and Room Code
 
-Long list of passwords and keycodes to all lab accounts are listed in the Evernote under the Lab General notebook. Please keep confidential! 
+Long list of passwords and keycodes to all lab accounts are listed in the Dropbox under the 'General Lab Documents'. Please keep confidential! 
 
 __If you get locked out:__ 
 
@@ -12,7 +12,7 @@ __If you get locked out:__
 
 ## Evernote
 
-Be familiar with what is in our Evernote and how the notes are organized. Consult Evernote notes when you have any questions about lab passwords, meeting schedules, project statuses, etc. Update Evernote notes when you make any changes or decisions related to the lab or lab projects.
+Evernote is no longer in use - any important lab documents can be found in the Dropbox or in the Google Drive.
 
 ## Dropbox
 
