@@ -2,8 +2,29 @@
 
 ## Slack
 
+**Slack Workspace URL:** nyuchildlanguagelab.slack.com
+
 Communication within the Child Language Lab should be conducted through Slack, a communication app that uses channels (#nameofchannel) to communicate to relevant sub-groups or to individuals. Lab members should be familiar with the Slack channels. Using Slack allows us to have work messaging that’s separable from personal messaging, and faster and more chat-based than email. This is important for open communicating and the on-the-go aspects of the lab like testing.
 
-## Evernote
+## GMail
 
-Log all work you do on lab projects in the Evernote notebook associated with that project. Make sure to include the date, your name, and a clear log of what tasks you have completed and notes for any issues that arise. We keep careful diaries of our projects for two main reasons: (a) our methods must be fully replicable down to the smallest decisions, and (b) we will have multiple people working on the same project, sometimes with significant time in between, so work must be able to be picked up both later and by someone else. Make sure Evernote syncs so all work is accessible to everyone in the CLL. 
+**Email Account Name:** nyuchildlanguagelab [at] gmail [dot] com
+
+To assist with making emails and past correspondances easier to find, the email has several labels corresponding to studies, miscellaneous correspondances, and status of any participants. The goal is to keep all currently relevant emails in the inbox and, once a study is completed, for example, to save the email out of sight but still within reach of searching for it.
+
+If you ever need to adjust filters (see below) then you can do so by clicking the gear icon in the top right of the inbox, clicking “See all settings”, and going to the “Filters and Blocked Addresses” tab.
+
+### Email Searching
+
+To search for past emails, such as looking up whether someone has been contacted for a study before, then in the search bar you can simply type “from:email@address.here” (using an actual email). To be more thorough, you can add “in:anywhere” at the beginning which will include Spam and Trash folders. To be more specific, click on a label and GMail will append something like “label:Study-Labels/…” to the search query.
+
+### Labels
+
+Under **Study Labels**, you will find a label for each of the respective studies currently ongoing at the CLL. Inbound emails are automatically assigned their respective study label given a specific keyword (based off of Calendly’s formatting). For example, if an email comes in with the words “CountKiddo”, the green “CountKiddo” label will be automatically applied to it in the inbox. In the event an email isn’t properly labeled, you can simply add the label with the label button at the top of the inbox page.
+
+Under **Meta Labels**, there are labels that refer to the status of studies and/or anything related to studies, but not someone participating in a study. Event/Recruitment pertains to all emails regarding recruiting participants or running events with organizations, including advertisements. Past Adult Participants is a section for, well, past adult participants who participated in one of the studies. 
+
+As for the **Status Labels**, under the Meta Labels tab, the “New Signup” is automated. The filter looks for any email that contains “A new event has been scheduled” (from Calendly) and adds the flashy red label- alongside the relevant study label (see above)- so that the participant can be contacted. Once contacted, this label should be manually removed using the label button on the top of the email window and then tagged with “Awaiting Response”. Once contacted, emails can be (but don’t need to be) dragged into the “Awaiting Response” label, thus taken out of the inbox. When a reply comes in, the email will show up in the inbox once more. Lastly, when the study has finished, the email chain should be marked with “Completed” and dragged into its relevant study label. When an email is dragged into one label, it still maintains any other labels it has been assigned. ^[As of August 5th, 2021, when the labels were created, nothing was properly automated so these status labels are completely empty. In theory, all the emails (as of that date) would technically be marked as Completed.]
+
+Finally, the **Archive and Admin labels**. The Archive label (yes, that is a Rolodex emoji) contains all emails that weren’t caught by the filtering and/or were before current procedures were put in place between 2018 and 2020. Each year has its respective label. The Admin label contains anything about meetings, lab internals, research requests, etc. that doesn’t have relation to studies or study-specific events.
+

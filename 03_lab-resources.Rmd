@@ -1,38 +1,30 @@
 # Lab Resources
 
-## Passwords, Shared Credentials and Room Code
+## Passwords, Shared Credentials, and Room Code
 
-Long list of passwords and keycodes to all lab accounts are listed in the Dropbox under the 'General Lab Documents'. Please keep confidential! 
+Long list of passwords and keycodes to all lab accounts are listed in the Dropbox under the 'General Lab Documents/LabPasswords.docx'. Please keep confidential! No one outside the lab should ever be given this info. If you have to update a password, update it on this list too or ask the Lab Manager to do so (and communicate the change)!
 
 __If you get locked out:__ 
 
 - If locked out of 208, Slack someone in the lab for the keycode
-- If locked of 209 (Testing room), request Teresa to open the door during work hours. If after work, request the security guard downstairs to open the lab 
-- PRO TIP: Always make sure the 209 key isn’t in the room before locking the door
+- If locked of 209 (Testing room), ask Teresa Leung to open the door during work hours. If after work, ask the security guard downstairs to open the lab 
+- **PRO TIP:** Always make sure the 209 key isn’t in the room before locking the door
 
-## Evernote
-
-Evernote is no longer in use - any important lab documents can be found in the Dropbox or in the Google Drive.
+**All important lab documents can be found in the Dropbox or the Google Drive.** For project specifics, check in with the lead of that project.
 
 ## Dropbox
 
-All materials relevant to lab projects are stored on Dropbox (Usually under Experimental Studies). Each project folder might contain (but limited to) images, audio files, participant tracking spreadsheets, R scripts, data files, and videos related to the project. This is done to ensure a central repository for each project, prevent data loss, allow for cross platform access and remote access. In the future, we plan to create an OSF page and make all our items, data and analysis available to the public to promote open science.
+**Account Email:** nyuchildlanguagelab [at] icloud [dot] com^[Note: Accounts that usually cost money use the iCloud email.]
+
+All materials relevant to lab projects are stored on Dropbox (Usually under Experimental Studies). Each project folder might contain (but not limited to) images, audio files, participant tracking spreadsheets, R scripts, data files, and videos related to the project. This is done to ensure a central repository for each project, prevent data loss, allow for cross-platform access and remote access. he Dropbox folders can also be processed and posted to e.g., an OSF page to make all our items, data and analysis available to the public to promote open science (linked to particular publications, typically).
 
 ## Software Packages
 
 R, Matlab, Penn Controller, MTurk, Experiment Builder, Data Viewer
 
-## Inventory
+## Physical Inventory
 
-- Lab room cabinet
-    - 1st/bottom drawer: misc
-    - 2nd drawer: misc
-    - 3rd drawer: office supplies and toys/gifts
-    - 4th/top drawer: Kids and adult t-shirts
-    - 1st shelf/bottom shelf: experiment supplies
-    - 2nd shelf: kids books
-    - 3rd shelf: kids toys/gifts
-    - 4th/top of cabinet: projector
-- Cubbies
-    - kids toys and snacks
+Visit the lab rooms and familiarize yourself with the items and hardware needed for your work in the lab. 
+Generally, rm208 is the office for working on the lab computers/tablets (or one’s own pc). This room has a double-sided desk, two computers, tablets (kept in the drawers), whiteboards, and other office-y items. Whiteboard markers can be replenished from the Linguistics supply cupboard in the kitchen area next to the lab. 
+Rm209 is the experiment room, housing the eye tracking equipment and testing area, a child-sized table and chairs for behavioural tasks, a comfortable chair for parents, and storage for testing supplies (consent and testing forms by-study, gifts and lab t-shirts for child participants) and other lab items (equipment, stickers, business cards, costume items, puppets, etc).  
 

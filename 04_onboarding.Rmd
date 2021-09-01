@@ -3,16 +3,15 @@
 ## Basics {-}
 
 
-1. New hire paperwork: Wasserman Form from Wasserman Center (to Ailis to sign)
-2. IRB > CITI Training and Certificates > Instructions, for getting IRB 
-3. Create free Slack account; download a copy onto your PC and your phone
-4. Familiarize yourself with CLL Slack and Dropbox
-5. Ethics Approval - Complete CITI Training; Certificate saved to Evernote: IRB > CITI Training and Certificates; Certificate saved to DropBox
-6. Create Cayuse Account 
-7. Get added to active IRB Protocols (Ailis)
-8. Add email (work/uni) and phone number to General Lab > Contact List
-9. Learn Passwords (keep confidential!) for:
-10. Lab Machines: Dropbox; Slack; Google Calendar; Apple/iCloud (includes lab email); Zotero
-11. Door code (Rm 208) and location of key (Rm 209)
-12. Scheduling Availability/Hours: Send times you are absolutely not available (class/other work), times you would prefer not to work, and times you are available (prefer to work) to Lab Manager (Charlotte).    
-13. Read and sign Rules of the Lab  (Dropbox > General Lab Documents)
+1. New hire paperwork (if paid NYU student): Wasserman Form from Wasserman Center (to Ailis to sign)
+1. Download Slack and join via Slack URL^[Slack accounts are a little different. You won't have one central account for all Slack servers you're on, so reach out to get an invite and then sign up/sign using that URL. It should clearly state that you are joining the NYU CLL "workspace".]
+1. Familiarize yourself with CLL Slack and Dropbox
+1. Ethics Approval - Complete CITI Training; IRB > CITI Training and Certificates; Save your certificate to DropBox/ALL RECRUITING & TESTING DOCS/CITI Certifications. [See NYU's instructions here](https://www.nyu.edu/research/resources-and-support-offices/getting-started-withyourresearch/human-subjects-research/tutorial.html )
+1. Create Cayuse Account [Here](https://www.nyu.edu/osp/res/registration/)
+1. Get added to active IRB Protocols (Ailis)
+1. Learn Passwords (keep confidential!) for:
+  1. Lab Machines; Dropbox; Slack; Google Account; Apple/iCloud (includes lab email)
+1. Door code (Rm 208) and location of key (Rm 209)
+1. Scheduling Availability/Hours: Send times you are absolutely not available (class/other work), times you would prefer not to work, and times you are available (prefer to work) to the Lab Manager (Charlotte).    
+1. Google Drive: Coordinate with Ailis to get past 2FA step.
+1. If recruiting and running participants, learn how the CLL-Database (on Drive) works (watch tutorial in MyDrive > CLL-processes Tutorials).
