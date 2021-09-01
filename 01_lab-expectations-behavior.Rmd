@@ -1,50 +1,54 @@
 # Lab Expectations and Behavior
 
-The Child Language Lab @ NYU strives to make it a safe, enjoyable, and friendly experience for everyone who participates. We are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion. We do not tolerate harassment of members in any form. 
-
-## General Expectations
-
-1. Always follow instructions given to you by the Principal Investigator (PI), the Lab Manager, or the appointed project leader for sub-projects. If you are unsure of something, please ask for clarification. Our aim is to foster clear and open communication for CLL projects.
-
-2. Clean-up after yourself. Always try to leave the lab more clean and more organized (or at least as clean and as organized) than when you arrived. Please remember that all spaces are shared, so don’t leave things out  –  put personal items you would like to keep in the lab in the drawer spaces in Room 208.  You are welcome to use the 2nd floor lounge kitchen to store food for the workday, make coffee, etc. If you do, label all food and be considerate of the shared nature of the kitchen space.
-
-3. Be responsible & professional. For example, If you make a mistake on a task, don’t hide it as that will make the situation worse. Let the PI (or project lead, or both) know as soon as possible.
-
-4. The lab is a team, we work together to get research projects designed, piloted, executed, presented and published. A lab member may be asked to take on some duties that are good for the lab as a whole without direct advantage to themselves. Similarly, one may be asked to put off a task or switch task priorities for the good of the lab. Be a team player.  
-
-5. If you are having a problem with someone in the lab, please talk to them about it rather than talking to anyone else about it. Only if you are dissatisfied with the outcome, talk to the lab PI about it.
-
-6. Treat all lab equipment with respect and care. Be courteous and ensure to charge the iPads, Apple Pencil, and Bluetooth keyboards and mice as needed.
+We at The Child Language Lab @ NYU strives to make working at the lab a safe, enjoyable, educational, and friendly experience for everyone who participates. We are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion. We do not tolerate harassment of members in any form. 
 
 ## Lab Hierarchy
 
-1. Principle Investigator (PI)
-2. Lab Manager, PhD Student
-3. Project Leader
-4. Undergraduate RA, Intern
+1. **Principle Investigator (PI):** Creator and leader of the lab, responsible for intellectual leadership and output, securing and maintaining funding, supervising projects, and making major decisions (among other roles). Professor, so is also doing other things related and unrelated to the lab (teaching courses, publishing and presenting, advising other graduate student work, administrative roles, applying for grants, etc.)
+
+1. **PhD Students:** Researchers/students working on projects in the lab. Typically, PhD student roles in the lab overlap with those of the PI: they are also responsible for intellectual integrity and output, for the projects they lead (usually part of their degree requirements) and/or are authors on. They are under the supervision of the PI. They are also doing much work related and unrelated to the lab (e.g., taking/TA-ing/teaching courses, applying for jobs, publishing and presenting, mentoring other students, etc.) 
+
+1. **Lab Manager:** Overseer and manager of lab hardware, systems, information, participant recruiting efforts; communicating between projects; maintains online presence; interfaces with parents and daycares. Pitches in to help PI and Project Leader as needed. Jack/Jill of All Trades.  
+
+1. **Project Leader:** This role overlaps with other roles, as it refers to who is in charge of the lab work related to a specific project. This person is the point person for that project, and is typically a PhD student (but may be the PI, an undergraduate student, or a current or part lab manager). 
+
+1. **Undergraduate RAs, Interns:** RAs (usually an NYU student) and Interns (usually not an NYU student) work on various tasks and projects in the lab. Typically they work primarily on a specific project, mentored by a particular PhD Student and/or the PI. RAs/Interns may work for pay (typically when linked to specific grants), course credit, or research experience (typically not possible for NYU students, who should be either paid or receive credit).
 
 ### When and for how long people work
 
-- RA (Paid): ~15 hrs/week 
-- RA (Research; unpaid): ~12 hrs/week
+- RA (Paid): ~15 hrs/week (dependent on funding source)
+- RA (Research; unpaid, course credit): ~5-10 hrs/week
 - Intern (Unpaid) ~8 hrs/week
-- Lab Manager (Part-time): ~6 hrs/week 
-- Lab Manager (Full-time): 35 hrs/week
+- Lab Manager (Part-time): ~6-10 hrs/week 
+- Lab Manager (Full-time): Up to 35 hrs/week
+
+## General Expectations
+
+1. Always follow instructions given to you by the Principal Investigator (PI: Ailis Cournane), the Lab Manager, or the appointed project leader (typically PhD students) for sub-projects. If you are unsure of something, please ask for clarification. Our aim is to foster clear and open communication for CLL projects.
+
+1. Clean-up after yourself. Always try to leave the lab more clean and more organized (or at least as clean and as organized) than when you arrived. Please remember that all spaces are shared, so don’t leave things out  –  put personal items you would like to keep in the lab in the drawer spaces in Room 208 (labeled accordingly).  You are welcome to use the 2nd floor lounge kitchen to store food for the workday, make coffee, etc. If you do, label all food and be considerate of the shared nature of the kitchen space.
+
+1. Be responsible & professional. For example, If you make a mistake on a task, don’t hide it as that will make the situation worse. Let the PI (or lab manager, project lead, or both) know as soon as possible.
+
+1. **The lab is a team.** We work together to get research projects designed, piloted, executed, presented and published. A lab member may be asked to take on some duties that are good for the lab as a whole without direct advantage to themselves. Similarly, one may be asked to put off a task or switch task priorities for the good of the lab. Be a team player.  
+
+1. If you are having a problem with someone in the lab, please talk to them about it rather than talking to anyone else about it. Only if you are dissatisfied with the outcome, talk to the lab PI about it.
+
+1. Treat all lab equipment with respect and care. Be courteous and ensure to leave the equipment ready for future use (e.g. charge the iPads, Apple Pencil, and Bluetooth keyboards and mice as needed).
+
+1. Complete Ethics (CITI) training and always follow best ethical practices for working with human participants, noting that children are a special case as they cannot consent for themselves. If you have questions, ask more senior lab members as soon as possible.
 
 ## Research/Graduate Student Expectations ^[For a comprehensive list of Graduate Student Expectations, refer to the document entitled CLL_GraduateAdvisorExpectations in the lab Dropbox]
 
-1. It is important that Researchers stay up to date on the primary literature in their area of study. While the PI will point you to relevant readings, each researcher should make an effort to read articles in scientific journals that specifically apply to their interests and projects.
+1. Stay up to date on the primary literature in your area of study. While the PI will point you to relevant readings, each researcher should make an active and concerted effort to read articles in scientific journals that specifically apply to their interests and projects.
 
-2. Researchers are expected to keep Project Managers and the PI updated on their progress, successes, and concerns. One-on-one meetings can be arranged with the PI for these discussions.
+1. Keep the PI updated on your progress, successes, and concerns via Slack or in Lab Meetings. One-on-one meetings can be arranged with the PI for these discussions.
 
-3. Researchers are expected to contribute to the lab as a whole, both intellectually and occasionally with requested research from other projects in the lab (potentially outside of a Graduate Student’s dissertation project). 
+1. PhD Students/Project Leaders are expected to contribute to the lab as a whole, both intellectually and occasionally with requested research from other projects in the lab. 
 
-4. Researchers are expected to follow all of the lab rules that will be given to you when you begin and potentially updated each semester. This includes completing all required ethics training.
+1. The PI has the responsibility of meeting regularly with you to discuss your research and academic training. One should give the PI advance notice (at least a week) when scheduling a meeting to find a suitable time (unless you have a standing meeting).^[For a full enumeration of PI Advisor Expectations, refer to the document entitled CLL_GraduateAdvisorExpectations in the lab Dropbox]
 
-## PI Expectations ^[For a full enumeration of PI Advisor Expectations, refer to the document entitled CLL_GraduateAdvisorExpectations in the lab Dropbox]
-1. The PI has the responsibility of meeting regularly with the Graduate Students she advises to discuss their research and academic training. One should give the PI advance notice when scheduling a meeting to find a suitable time. 
-
-2. The PI has the responsibility of advising students on how to proceed according to their prospective career paths, and will offer continual assistance with research projects that is fully described in the Dropbox document.
+1. The PI has the responsibility of advising you on how to proceed according to prospective career paths, and will offer continual assistance with research projects. **The goals are always to get lab projects presented and published (science is meant to be shared!) and to get lab members on to the next stage in their education or career.**
 
 ## Behavior
 
@@ -56,6 +60,3 @@ __Refrain from demeaning, discriminatory, or harassing behaviour and speech.__ H
 - unwelcome sexual attention.
 
 If you feel that someone has harassed you or otherwise treated you inappropriately, please alert the PI or any other member on the team. If any member or project participant engages in harassing behaviour, the senior staff may take any action we deem appropriate. 
-
-
-

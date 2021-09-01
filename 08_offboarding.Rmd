@@ -1,5 +1,8 @@
-# Offboarding
+# Offboarding and Leaving the Lab
 
-Give up ID and offload all information linked to your NYU ID to the lab. 
-
-
+- Give up ID and offload all information linked to your NYU ID to the lab. 
+- Erase passwords from your brain (or more practically, from your computer(s)). Make sure to unlink any/all of your personal accounts from lab accounts (if you had any links, normally this is discouraged for security and organization reasons). 
+- Make sure there is a record (here, on the Drive, in Dropbox) of your presence and contributions during your tenure in the lab, with an eye towards continuity and others being able to pick up where you left off. Communication is key, even when you’re leaving. 
+- If you have any data or other lab-related files on your personal machines only, make sure they are uploaded to the lab Dropbox. Again, others should be able to pick up where you left off.
+- Let the PI (and when relevant, project leaders you’ve been working with) know how to reach you if needed. 
+- **If you are an Author on a lab project that is not completed prior to your leaving NYU**, make sure you have a plan with Ailis (and other stakeholders in the publication) for how that work will reach publication. Remember, publications are the ultimate goal: they help Ailis get Tenure and further grants (essential for lab operations and Student/RA support), PhD students get academic and related jobs, and our work get shared (we’re creating knowledge for _**everyone**_, and publishing is the way to make that happen).  

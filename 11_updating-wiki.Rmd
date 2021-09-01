@@ -6,28 +6,47 @@ If you need to change or information in the wiki, edit the google doc entitled "
 
 ## Updating Website
 
+The website is hosted on GitHub. By making changes and committing, or uploading, those changes to GitHub, the website will automatically update. The wiki is written using a library called BookDown which uses [Markdown Syntax](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) and edited in R Studio.
+
+You'll need to [install Git](https://git-scm.com/downloads) for the updating portion of this to work properly, as well as logging in to the CLL GitHub account on your computer. Git, in short, is a platform for code collaboration. It has many commands and can get confusing, but follow the updating guide below and you shouldn't need to learn much of it.
+
+### Installing R
+
+1. If you do not already have it installed, download [RStudio](https://www.rstudio.com/).
+2. If you don't have the above installed, you'll probably need to install [R itself](https://www.r-project.org/). Installation is more or less click-and-go.
+3. Lastly, within RStudio, find the tab labeled "Packages" (it should be on the bottom right window by default), select Install on the top left of this window, and type in `bookdown`. This is necessary for the following steps.
+
+### Updating the Lab Wiki Files
+
+1. Download the GitHub wiki as a zip, or [clone the directory via Git](https://git-scm.com/docs/git-clone). These steps assume you have downloaded/cloned the wiki into "downloads". If it's elsewhere, mentally replace "downloads" with wherever the repository, or files of code from GitHub, is located.
 1. Open the R project "NYU Child Language Lab Manual.Rproj" from the folder in downloads called "CLL-wiki" in RStudio.
-2. Locate the .Rmd file in the bottom right panel of RStudio that you wish to edit. If you wish to create a .Rmd file, name it "(chapter number)_Title" and adjust the subsequent chapter numbers if you created a chapter in the middle of the current chapters. The only formatting requirement for creating a new chapter is to start the .Rmd file with "# Title".
+2. Within RStudio, locate the .Rmd file in the bottom right panel of RStudio that you wish to edit, i.e. `11_updating-wiki.Rmd`. If you wish to create a .Rmd file, name it "(chapter number)_Title" and adjust the subsequent chapter numbers if you created a chapter in the middle of the current chapters. The only formatting requirement for creating a new chapter is to start the .Rmd file with "# Title".
 3. Edit the text in the .Rmd file. If this requires any formatting refer to the [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf).
-4. Save all changes in RStudio. Press the "Build Book" button in the top right panel of RStudio, and when the book is previewed, check that your changes look good.
+4. Save all changes in RStudio. Press the "Build Book" button in the top right panel of RStudio, and when the book is previewed, check that your changes look good. _If "Build Book" does not there, see step 3 of **Installing R** above._
 5. Open up the terminal^[You may be prompted by the terminal somewhere in this process for our github username and password. These can be found on the passwords page in Evernote.] and type into the command line:
 
 ```
 cd ~/Downloads/CLL-wiki
 ```
+> cd stands for "change directory". It simply says "hey computer! the commands we're about to execute come from this folder". If you have CLL-wiki, whether downloaded or cloned, in another folder, change the directory accordingly. You can also type "cd " (space included) and drag the folder into the terminal and it should automatically add the path.
+
 6. You are now in the project directory, which is connected to the github repository for the website. Next, in the order given, enter into the commmand line:
 
 ```
 git add .
 ```
-The updated files are now in the repository
+> The updated files are now in the repository. This command is effectively a precursor to say "hey git! I'm about to push some files, and the following files ('.' stands for all files) are going to be included in that push. You've written a letter that you're ready to send out.
+
 ```
 git commit -m "Updated (Write Date of Update)"
 ```
-The version you are uploading is now saved in github.
+> The version you are uploading is now ready to be sent to the GitHub repository. The letter has been sealed and stemped. One last step!
+
 ```
 git push -u origin master
 ```
-7. The files are now sent to the github repository, and if you check the webpage it should be updated!
+> The files are now sent to the GitHub repository. The letter has been dropped in the mailbox and, unlike the US Post Office, the letter will arrive within seconds.
+
+7. Check the lab website and it should be updated very very shortly!
 
 

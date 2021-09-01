@@ -25,23 +25,7 @@ Welcome to NYU's Child Language Lab Wiki! Click on tabs to the left to explore o
 
 ## Mission Statement {-}
 
-We are interested in better understanding how young children workout the complex language learning problems they are faced with, specifically abstract words that cannot be taught or pointed to (e.g., how do you show a child the meaning of *must* or *think*?). To do so, we combine expertise in linguistics, cognitive science and developmental psychology to help us understand just how children accomplish this feat. Although neither you nor your child will personally receive any direct benefits from this research, by learning more about children’s abstract language development,this research contributes directly to our knowledge about human linguistic and cognitive development, and indirectly to the improvement of early language assessment and intervention.
-
-## Current Projects ^[For more information, see [this detailed list of experiments](#expov)]
-
-### PI-led Projects {-}
-
-1. __Fuzzy NomNoms__: Investigates the acquisition and comprehension of the modal adverb *maybe* in 2-3 year old children. 
-2. __AllAboutMe__: Investigates the evidential component of *must* and *might* in 5 - 9 year olds & adults. 
-3. __ModForceJunior__: Aims to understand how 3.5 - 4.5 year olds, and adults, navigate modal force in acquisition.
-4. __SqueakyMice__: Investigates the psycho-linguistic factors influencing 5-7 year olds & adult reasoning with polysemous modal verbs.
-
-### Graduate Student-led Projects {-}
-
-1. __CountKiddo__ (Maxime): Aims to understand the acquisition path of counterfactual assertions in 4-6 year olds. 
-2. __Exhaustives__ (Alicia): Aims to pindown the source of number inferences in 4-6 year olds.
-3. __KidBiComp__ (Sarah): Aims to understand the nature and processing of code-switched utterances in 2-year-old English-Spanish bilinguals. 
-4. __CFWaterpark__ (Ioana): 
+We are interested in better understanding how young children solve the complex language learning problems they are faced with, specifically for abstract words or constructions that cannot be taught or pointed to (e.g., how do you show a child the meaning of _must_ or _think_?). To do so, we combine expertise in linguistics, cognitive science and developmental psychology to help us understand just how children accomplish these learning feats. We run experiments and do corpus work. [CUT] By learning more about children’s abstract language development, this research contributes directly to our knowledge about human linguistic and cognitive development, and indirectly to the improvement of early language assessment and intervention.
 
 ## Lab Members
 
@@ -49,20 +33,32 @@ We are interested in better understanding how young children workout the complex
 Dr. Ailis Cournane
 
 ### Lab manager {-}
-(past): Adam Bell 
-(current): Charlotte McFarland
+Charlotte McFarland
 
 ### Graduate Students {-} 
-Maxime Tulling; Alicia Parrish; Sarah Phillips; Chiara Repetti-Ludlow; Anna Alsop; Paloma Jeretič; Naomi Lee; Mary Robinson 
+Maxime Tulling; Alicia Parrish; Sarah Phillips; Chiara Repetti-Ludlow; Anna Alsop; Naomi Lee; Mary Robinson 
 
 ### RAs {-} 
-Hannah Mattis-Roesch; Madisen Fong; Mark Bacon; Maya Wallis; Maya Orey; Isha Rahman;  
+Madisen Fong; Mark Bacon; Maya Wallis; Maya Orey; Isha Rahman  
 
 ### Interns {-} 
- 
+NA
 
 ### Alumni {-}
-Vishal Sunil Arvindam; Dunja Veselinovic; Hayden Kee; Yohei Oseki; Deborah Hapern; Kathyrn Rafailov; Jenna Pollan; Sasha Frangulov; Daniella Presti; Sam Mitchell; Rachel Arbacher; Michael Marinaccio; Melissa Rojas; Max Manicone; Stacy Gerchick; Nicolette Cure; Michelle Golden 
+Dunja Veselinovic; Hayden Kee; Yohei Oseki; Deborah Hapern; Kathyrn Rafailov; Jenna Pollan; Sasha Frangulov; Daniella Presti; Sam Mitchell; Rachel Arbacher; Michael Marinaccio; Max Manicone; Stacy Gerchick, Nicolette Cure; Michelle Golden; Hannah Mattis-Roesch; Paloma Jeretič 
 
+## Current Projects ^[For more information, see [this detailed list of experiments](#expov)]
+
+### PI-led Projects {-}
+
+1. __Fuzzy NomNoms (Maxime)__: Investigates the acquisition and comprehension of the modal adverb *maybe* and negator _not_ in 2-3 year old children. Authors: Vishal Arvindam, Maxime Tulling, Ailis Cournane
+1. __AllAboutMe (Ailis)__: Investigates the evidential component of *must* and *might* in 5 - 9 year olds & adults. Author: Ailis Cournane
+1. __ModForceJunior__: Aims to understand how 3.5 - 4.5 year olds and adults navigate modal force in acquisition. Authors: Ailis Cournane, Anouk Dieuleveut, Chiara Repetti-Ludlow, Valentine Hacquard
+1. __SqueakyMice (Adam)__: Investigates the psycho-linguistic factors influencing 5-7 year olds' & adults' reasoning with polysemous modal verbs. Authors: Adam Bell, Ailis Cournane
+1. __CountKiddo (Maxime)__: Aims to understand the acquisition path of counterfactual assertions in 3-5 year olds. Authors: Maxime Tulling, Mark Bacon, Ailis Cournane
+1. __Panoo (Maxime)__: Investigates the comprehension of simple possible (modal) and impossible (counterfactual) statements in 2&3-year-olds. Authors: Maxime Tulling, Maya Orey, Ailis Cournane
+1. __Exhaustives [Completed] (Alicia)__: Aims to pindown the source of number inferences in 4-6 year olds. Authors: Alicia Parrish, Ailis Cournane
+1. __KidBiComp (Sarah)__: Aims to understand the nature and processing of code-switched utterances in 2-year-old English-Spanish bilinguals. Authors: Sarah Philips, Ailis Cournane
+1. __CFWaterpark (Ioana)__: Aims to understand differences between child (5-7-yo) and adult understanding of counterfactual scenarios by investigating the kinds of possibilities children reason over. Authors: Ioana Grosu, Ailis Cournane
 
 <!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
