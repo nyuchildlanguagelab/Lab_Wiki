@@ -34,11 +34,6 @@ recruiting-and-engagement-most-important-thing
 recruiting
 offboarding-and-leaving-the-lab
 publications
-reading-list
-modals
-acquisition
-experimental-methods
-language-change-and-the-role-of-the-children
 updating-the-wiki
 updating-from-docs
 updating-website
