@@ -38,7 +38,7 @@ We at The Child Language Lab @ NYU strives to make working at the lab a safe, en
 
 1. Complete Ethics (CITI) training and always follow best ethical practices for working with human participants, noting that children are a special case as they cannot consent for themselves. If you have questions, ask more senior lab members as soon as possible.
 
-## Research/Graduate Student Expectations ^[For a comprehensive list of Graduate Student Expectations, refer to the document entitled CLL_GraduateAdvisorExpectations in the lab Dropbox]
+## Research/Graduate Student Expectations
 
 1. Stay up to date on the primary literature in your area of study. While the PI will point you to relevant readings, each researcher should make an active and concerted effort to read articles in scientific journals that specifically apply to their interests and projects.
 
@@ -46,7 +46,7 @@ We at The Child Language Lab @ NYU strives to make working at the lab a safe, en
 
 1. PhD Students/Project Leaders are expected to contribute to the lab as a whole, both intellectually and occasionally with requested research from other projects in the lab. 
 
-1. The PI has the responsibility of meeting regularly with you to discuss your research and academic training. One should give the PI advance notice (at least a week) when scheduling a meeting to find a suitable time (unless you have a standing meeting).^[For a full enumeration of PI Advisor Expectations, refer to the document entitled CLL_GraduateAdvisorExpectations in the lab Dropbox]
+1. The PI has the responsibility of meeting regularly with you to discuss your research and academic training. One should give the PI advance notice (at least a week) when scheduling a meeting to find a suitable time (unless you have a standing meeting).
 
 1. The PI has the responsibility of advising you on how to proceed according to prospective career paths, and will offer continual assistance with research projects. **The goals are always to get lab projects presented and published (science is meant to be shared!) and to get lab members on to the next stage in their education or career.**
 

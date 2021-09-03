@@ -86,7 +86,7 @@ Children are shown two animals on the screen that look very similar (e.g., a she
 - Age: 2-3
 - Materials: Eye tracker, headband/clips, cutouts of animals for familiarization
 
-### All About ME {-} 
+### [ON HOLD] All About ME {-} 
 
 Children are introduced to Pterry the Pterodactyl and Cera the Triceratops, who both comment on pictures using words like must, might and is. The child is then asked “who said it better,” and the child comments on whether Pterry or Cera’s comment was better. 
 
@@ -110,7 +110,7 @@ Children are invited to play a computer game over zoom with the researcher. The 
 - Age: 5-7 & adults 
 - Materials: Scratch, Zoom, computer/laptop, answer key 
 
-## [In Development] Panoo (Maxime)
+### [In Development] Panoo (Maxime)
 
 Children are introduced to a toy character (Panoo) and his friend who looks identical. They are put inside a box and the narrator (Lily) does something to the box, e.g. paints it, accidentally affecting one of the toys as well (e.g. spilling paint). Lily opens the box and looks inside, and says something, e.g. “Oh no Panoo is all wet!”. Then the child is shown the inside of the box where there are Panoo and his friend, one of them wet. The child is asked “Where’s Panoo? Can you find him?” while we track the child’s eye-movements to see what they pay attention to on screen in response to such sentences. In this way, we try to infer whether they updated their discourse representation with different types of information (factual, modal and counterfactual).  
 
