@@ -12,6 +12,8 @@ output:
 
 Welcome to NYU's Child Language Lab Wiki! Click on tabs to the left to explore our site!
 
+**___All CLL lab members must read this wiki and fill-out this form: [Rules of the Lab Agreement](https://docs.google.com/forms/d/e/1FAIpQLSd_g4U4TL-OsV3Twe_czRX96gb9Fmo7SRCahzUcscTtStMqWw/viewform)___**
+
 ## Links {-}
 
 - [Lab website](https://wp.nyu.edu/childlanguagelab/) 
@@ -21,7 +23,6 @@ Welcome to NYU's Child Language Lab Wiki! Click on tabs to the left to explore o
 - [Lab Facebook Page](https://www.facebook.com/NYUcll/) 
 
 - Location: Room 208 and 209 (Floor 2), 10 Washington Place, Department of Linguistics
-
 
 ## Mission Statement {-}
 
